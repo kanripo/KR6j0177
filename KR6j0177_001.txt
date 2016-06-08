@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:27:21.652870
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:29
 #+TITLE: 大雲經祈雨壇法
 #+PROPERTY: CBETA_ID T19n0990
 #+PROPERTY: ID KR6j0177
